@@ -1,11 +1,11 @@
 ﻿body {
-     margin-left: 35%;
-    margin-right: 35%;
     text-align:justify;
     align-content:center;  
 }
 
 p{
+    margin-left: 35%;
+    margin-right: 35%;
     font: oblique bold 120% cursive;
     font-size: 20px;
     background-color: #8EA1B9;
@@ -16,4 +16,17 @@ p{
     font-size: 50px;
     background-color: #1371EA;
     color:white;
+}
+
+.navbar{
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color:white;
+    font-size: 20px;    
+}
+
+.imini{
+    margin-left: 10%; 
+    margin-top: 3%;
+    BORDER : 10px;
 }

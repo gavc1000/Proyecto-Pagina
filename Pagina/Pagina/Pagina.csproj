@@ -66,6 +66,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Acerca de.html" />
+    <Content Include="Computación.html" />
+    <Content Include="Contacto.html" />
+    <Content Include="Objetivos.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -76,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Pagina 1.html" />
+    <Content Include="Pasatiempos.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
