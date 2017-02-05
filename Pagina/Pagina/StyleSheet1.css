@@ -30,7 +30,6 @@ p{
     color:white;
     margin-left: 43%;
     margin-right: 43%;
-    /*background-color:#FA981B;*/
     font-size: 20px;    
 }
 
@@ -49,4 +48,20 @@ p{
     font-size:15px;
     margin-left: 42%;
     margin-right: 42%;
+}
+
+.red{
+    margin-left:46%;
+    margin-right: 46%;
+}
+
+.impas{
+    margin-left: 7%; 
+    margin-top: 3%;
+    BORDER : 10px;
+}
+
+.pas{
+    margin-top:90px;
+    margin-bottom 10px;
 }
